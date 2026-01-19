@@ -13,7 +13,7 @@ Ek simple aur interactive Counter application jo HTML, CSS aur Vanilla JavaScrip
 ## 🚀 Demo
 
 Aap is project ka live demo yahan dekh sakte hain: 
-`[]`
+`[https://bilal-qadir-webdeveolper.github.io/Javascript_conuter/]`
 
 ## 🛠️ Tech Stack Used
 
